@@ -11,10 +11,10 @@ Entry for the make.fun bounty `news-image-20261125`.
 2. **Israel kills Hamas security chief in Gaza** (Middle East) — An airstrike in Gaza City killed Naeem Abu Nahel and six others, despite a ceasefire in place since October.
 3. **Houthi drone hits Riyadh's tallest tower, 11 hurt** (Gulf) — A drone struck the PIF Tower, wounding 11 people. The coalition struck back at Hodeidah port.
 4. **US jury convicts Huawei on 10 counts** (Tech & Law) — A Brooklyn jury found Huawei guilty of bank fraud, sanctions violations and stealing trade secrets.
-5. **China probes Shanghai chief Chen Jining** (China) — Politburo member Chen Jining is under investigation. Shanghai leaders pledged loyalty to Beijing.
+5. **Shenzhou-24 launches with first foreign astronaut** (Space / China) — China launched three astronauts to Tiangong, including Pakistan's Muhammad Zeeshan Ali, the first foreign visitor to the station.
 6. **WHO evacuates Ebola staff in DR Congo** (Health / Africa) — WHO staff were evacuated from a hospital in Akwe after sheltering for three days amid fighting.
 
-Sources: Reuters, BusinessWorld, IANS, WSJ. Events of 25 November 2026.
+Sources: Reuters, BusinessWorld, IANS, WSJ, Xinhua. Events of 25 November 2026.
 
 ## How it runs
 
