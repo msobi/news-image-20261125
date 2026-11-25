@@ -1,7 +1,9 @@
 # World News — 25 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125) [![Rank](https://make.fun/badge/news-image-20261125/msobi/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125) [![Reward](https://make.fun/badge/news-image-20261125/msobi/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+
 One image summing up the world's news of Wednesday, 25 November 2026.
-Entry for the make.fun bounty `news-image-20261125`.
+Entry for the [make.fun bounty](https://make.fun/bounty/news-image-20261125) `news-image-20261125`.
 
 ![World News — 25 November 2026](entry.png)
 
